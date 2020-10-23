@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primer Ejercicio</string>
+    <string name="bienvenida">Welcome</string>
+    <string name="titulo_btn">Enter</string>
+    <string name="marcianito_de_android_con_fondo_azul_y_texto_de_bienvenida">Android Martian with blue background and welcome text</string>
+</resources>

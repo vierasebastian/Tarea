@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primer Ejercicio</string>
+    <string name="bienvenida">Bienvenue</string>
+    <string name="titulo_btn">Entrer</string>
+    <string name="marcianito_de_android_con_fondo_azul_y_texto_de_bienvenida">Martien Android avec fond bleu et texte de bienvenue</string>
+</resources>
